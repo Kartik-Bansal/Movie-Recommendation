@@ -1,0 +1,374 @@
+Movie_name,Comment_Rating,Movie_name,Genre 1,Genre 2,Genre 3,Genre 4
+2012,4.904569892473118,2012,action,family,children,comedy
+21   Over ,5.704918032786885,21   Over ,comedy,adventure,action,children
+21 Jump Street ,6.722448979591837,21 Jump Street ,comedy,action,classic,children
+42,8.486956521739131,42,action,family,children,classic
+50 50 ,7.97457627118644,50 50 ,comedy,family,action,romantic
+A Good Day to Die Hard ,4.224924012158055,A Good Day to Die Hard ,action,family,classic,adventure
+A Haunted Hous,5.4,A Haunted Hous,comedy,horror,action,family
+A Resurrection ,4.444444444444445,A Resurrection ,horror,action,adventure,anime
+After Earth ,5.174074074074074,After Earth ,action,sci-fi,family,adventure
+Alex Cross ,4.590909090909091,Alex Cross ,action,comedy,thrillers,family
+Alice in Wonderland ,6.101176470588236,Alice in Wonderland ,classic,children,adventure,action
+Alien ,8.786314525810324,Alien ,horror,sci-fi,classic,action
+Aliens ,8.903269754768392,Aliens ,action,horror,sci-fi,classic
+Almost Famous ,8.304147465437788,Almost Famous ,classic,comedy,action,musical
+American Beauty ,7.839449541284404,American Beauty ,family,comedy,action,classic
+American History X ,8.732650739476679,American History X ,family,action,classic,children
+American Psycho ,7.3064024390243905,American Psycho ,horror,comedy,action,classic
+American Reunion ,7.159574468085107,American Reunion ,comedy,classic,action,adventure
+Anna Karenina ,5.448818897637795,Anna Karenina ,classic,action,family,musical
+Antiviral ,6.6,Antiviral ,horror,sci-fi,action,classic
+Any Day Now ,7.833333333333333,Any Day Now ,family,children,action,classic
+Apocalypse Now ,8.216981132075471,Apocalypse Now ,horror,classic,action,family
+Armageddon ,5.509090909090909,Armageddon ,action,comedy,sci-fi,adventure
+Army of Darkness ,8.445333333333334,Army of Darkness ,horror,comedy,action,classic
+Assassins Run ,6.714285714285714,Assassins Run ,action,family,thrillers,adventure
+Avatar ,6.77783558792924,Avatar ,action,sci-fi,classic,adventure
+Back to the Future ,9.247354497354497,Back to the Future ,classic,comedy,family,adventure
+Back to the Future Part II ,7.9036697247706424,Back to the Future Part II ,family,action,adventure,classic
+Bad Teacher ,5.280898876404494,Bad Teacher ,comedy,children,action,family
+Batman Begins ,8.379548306148056,Batman Begins ,action,classic,family,children
+Battle Los Angeles ,5.376838235294118,Battle Los Angeles ,action,sci-fi,children,classic
+Battleship ,5.511437908496732,Battleship ,action,sci-fi,classic,comedy
+Beasts of the Southern Wild ,7.0,Beasts of the Southern Wild ,children,action,family,horror
+Big Daddy ,6.965714285714285,Big Daddy ,comedy,family,children,classic
+Big Fis,8.32662192393736,Big Fis,adventure,family,children,classic
+Black Swa,6.685082872928176,Black Swa,horror,action,classic,thrillers
+Blade Runner ,8.019115890083633,Blade Runner ,sci-fi,classic,action,adventure
+Boogie Nights ,7.869402985074627,Boogie Nights ,family,action,classic,comedy
+Brave ,6.770186335403727,Brave ,family,children,action,classic
+Broken City ,5.333333333333333,Broken City ,action,thrillers,classic,family
+Carrie ,4.352941176470588,Carrie ,classic,horror,action,musical
+Cars ,7.785340314136126,Cars ,family,children,action,classic
+Cars 2 ,5.758823529411765,Cars 2 ,action,children,family,adventure
+Casino Royal,7.3551952837140755,Casino Royal,action,classic,adventure,romantic
+Chasing Mavericks ,7.790322580645161,Chasing Mavericks ,family,action,children,dramas
+Chernobyl Diarie,4.753363228699552,Chernobyl Diarie,horror,action,adventure,children
+Chronicl,7.785714285714286,Chronicl,action,horror,sci-fi,family
+Clash of the Titans ,4.7525,Clash of the Titans ,action,classic,family,adventure
+Cloud Atlas ,6.29798903107861,Cloud Atlas ,action,comedy,sci-fi,adventure
+Coffee and Cigarettes ,5.879310344827586,Coffee and Cigarettes ,comedy,action,horror,sci-fi
+Contagion ,5.917525773195877,Contagion ,action,family,children,comedy
+Contraband ,5.829059829059829,Contraband ,action,sci-fi,classic,comedy
+Cowboys   Alien,6.733191035218783,Cowboys   Alien,action,family,classic,comedy
+Crash ,5.846153846153846,Crash ,horror,action,comedy,thrillers
+Crush ,5.7312925170068025,Crush ,family,comedy,horror,classic
+Dark Shadows ,6.050561797752809,Dark Shadows ,family,horror,sci-fi,children
+Dark Skies ,7.928301886792453,Dark Skies ,classic,comedy,action,children
+Dazed and Confused ,5.711538461538462,Dazed and Confused ,family,action,comedy,thrillers
+Dead Man Down ,8.51123595505618,Dead Man Down ,action,comedy,classic,family
+Dead Poets Society ,7.336633663366337,Dead Poets Society ,family,children,action,comedy
+Deadfall ,6.9125,Deadfall ,action,family,romantic,classic
+Despicable Me ,2.2857142857142856,Despicable Me ,action,children,adventure,anime
+Despicable Me 2 ,7.342342342342342,Despicable Me 2 ,children,family,comedy,action
+Devils of Wa,9.060311284046692,Devils of Wa,action,classic,family,comedy
+Die Hard ,8.192307692307692,Die Hard ,family,action,children,documentaries
+Disconnect ,7.048872180451128,Disconnect ,action,sci-fi,classic,comedy
+District 9 ,7.68895966029724,District 9 ,action,classic,comedy,horror
+Django Unchained ,8.195688225538971,Django Unchained ,sci-fi,family,horror,action
+Donnie Dark,6.977157360406092,Donnie Dark,action,sci-fi,classic,comedy
+Dredd ,6.040243902439024,Dredd ,action,classic,family,romantic
+Drive ,5.530054644808743,Drive ,comedy,action,classic,family
+Due Date ,8.726643598615917,Due Date ,comedy,classic,adventure,family
+Dumb and Dumber ,8.10126582278481,Dumb and Dumber ,classic,children,family,sci-fi
+E.T. the Extra-Terrestrial ,5.476277372262774,E.T. the Extra-Terrestrial ,action,sci-fi,classic,children
+Elysium ,5.920512820512821,Elysium ,children,action,sci-fi,family
+End of Watch ,6.153846153846154,End of Watch ,children,adventure,family,action
+Ender s Game ,6.790393013100437,Ender s Game ,action,family,children,comedy
+Epic ,5.473684210526316,Epic ,action,adventure,family,children
+Escape from Planet Earth ,6.376344086021505,Escape from Planet Earth ,comedy,classic,adventure,children
+EuroTrip ,6.098455598455598,EuroTrip ,horror,classic,action,comedy
+Evil Dead ,7.593023255813954,Evil Dead ,comedy,action,classic,family
+Fargo ,7.184426229508197,Fargo ,action,family,comedy,classic
+Fast   Furious ,7.4586894586894585,Fast   Furious ,classic,comedy,action,adventure
+Fast Five ,6.852760736196319,Fast Five ,action,family,adventure,classic
+Fear and Loathing in Las Vegas ,8.686762778505898,Fear and Loathing in Las Vegas ,action,classic,comedy,family
+Fight Club ,9.666666666666666,Fight Club ,family,action,adventure,anime
+Filly Brown ,8.48405253283302,Filly Brown ,children,family,adventure,classic
+Finding Nemo ,6.579234972677596,Finding Nemo ,action,family,classic,horror
+Flight ,8.349753694581281,Flight ,action,classic,horror,comedy
+Full Metal Jacket ,5.913043478260869,Full Metal Jacket ,comedy,family,adventure,action
+Fun Size ,6.505084745762712,Fun Size ,action,family,comedy,classic
+Furious 6 ,5.920245398773006,Furious 6 ,action,classic,comedy,children
+Gangster Squad ,6.007462686567164,Gangster Squad ,comedy,action,classic,musical
+Get Him to the Greek ,8.353790613718411,Get Him to the Greek ,comedy,classic,action,horror
+Ghostbusters ,8.169296987087519,Ghostbusters ,action,family,classic,adventure
+Gladiator ,8.240963855421686,Gladiator ,classic,action,family,comedy
+Good Will Hunting ,7.512864493996569,Good Will Hunting ,family,action,children,classic
+Gran Torino ,6.111111111111111,Gran Torino ,classic,action,romantic,children
+Great Expectations ,6.063218390804598,Great Expectations ,action,sci-fi,comedy,classic
+Green Lantern ,4.820627802690583,Green Lantern ,comedy,family,children,classic
+Grown Ups ,7.622971285892635,Grown Ups ,action,comedy,sci-fi,family
+Grown Ups 2 ,5.330708661417323,Grown Ups 2 ,comedy,family,children,classic
+Guardians of the Galax,7.180704441041348,Guardians of the Galax,action,children,adventure,family
+Harry Potter and the Goblet of Fire ,5.596182085168869,Harry Potter and the Goblet of Fire ,action,comedy,romantic,children
+Harry Potter and the Half-Blood Prince ,7.2701492537313435,Harry Potter and the Half-Blood Prince ,children,action,family,adventure
+Harry Potter and the Prisoner of Azkaban ,7.830645161290323,Harry Potter and the Prisoner of Azkaban ,children,adventure,family,classic
+Harry Potter and the Sorcerer s Stone ,4.633858267716535,Harry Potter and the Sorcerer s Stone ,action,thrillers,adventure,family
+Haywire ,8.520391517128875,Haywire ,action,classic,family,thrillers
+Heat ,7.619565217391305,Heat ,comedy,family,action,classic
+Here Comes the Boom ,8.344961240310077,Here Comes the Boom ,family,classic,comedy,children
+Home Alone ,6.297674418604651,Home Alone ,comedy,action,classic,family
+Horrible Bosses ,6.777027027027027,Horrible Bosses ,family,children,comedy,classic
+Hotel Transylvania ,5.069444444444445,Hotel Transylvania ,horror,family,action,classic
+House at the End of the Street ,8.53370786516854,House at the End of the Street ,action,family,children,adventure
+How to Train Your Dragon ,5.112426035502959,How to Train Your Dragon ,comedy,action,family,children
+I Am Number Four ,6.782258064516129,I Am Number Four ,adventure,action,children,family
+Identity Thief ,4.719827586206897,Identity Thief ,action,classic,children,adventure
+Immortal,6.021956087824352,Immortal,action,sci-fi,classic,comedy
+In Time ,8.121365360303413,In Time ,action,comedy,classic,family
+Inception ,8.566455696202532,Inception ,action,adventure,classic,comedy
+Independence Da,6.5966608084358525,Independence Da,action,family,comedy,classic
+Indiana Jones and the Last Crusade ,5.964169381107492,Indiana Jones and the Last Crusade ,action,sci-fi,classic,family
+Inglourious Basterds ,6.45859872611465,Inglourious Basterds ,action,comedy,family,classic
+Iron Man ,5.949074074074074,Iron Man ,action,comedy,sci-fi,classic
+Iron Man Three ,5.8949416342412455,Iron Man Three ,action,sci-fi,romantic,adventure
+Iron Sky ,5.932258064516129,Iron Sky ,action,thrillers,classic,adventure
+Jack Reache,5.111111111111111,Jack Reache,action,adventure,anime,children
+Jack the Giant Slayer ,8.97677793904209,Jack the Giant Slayer ,classic,horror,action,adventure
+Java Heat ,7.466800804828974,Java Heat ,action,adventure,sci-fi,family
+Jaw,6.393939393939394,Jaw,horror,comedy,action,adventure
+John Carter ,5.1441441441441444,John Carter ,action,sci-fi,adventure,family
+John Dies at the End ,8.681957186544343,John Dies at the End ,action,classic,children,adventure
+Jumper ,6.594594594594595,Jumper ,action,comedy,classic,family
+Jurassic Park ,7.146067415730337,Jurassic Park ,action,comedy,children,adventure
+Kick-Ass ,8.68421052631579,Kick-Ass ,classic,action,dramas,thrillers
+Kick-Ass 2 ,5.033755274261603,Kick-Ass 2 ,action,comedy,classic,dramas
+Killing Them Softly ,6.766081871345029,Killing Them Softly ,action,family,classic,romantic
+L.A. Confidential ,6.4638403990024935,L.A. Confidential ,family,action,classic,comedy
+Law Abiding Citizen ,7.661946902654868,Law Abiding Citizen ,family,adventure,action,children
+Lawless ,7.6375,Lawless ,comedy,family,children,action
+Liar Liar ,6.982456140350878,Liar Liar ,action,sci-fi,classic,thrillers
+Life of Pi ,6.896247240618101,Life of Pi ,action,classic,comedy,family
+Limitless ,5.617647058823529,Limitless ,action,sci-fi,classic,family
+Live Free or Die Hard ,6.666666666666667,Live Free or Die Hard ,action,sci-fi,horror,adventure
+Lo imposible ,4.695652173913044,Lo imposible ,action,comedy,romantic,family
+Lockout ,7.254098360655738,Lockout ,family,children,horror,action
+Looper ,8.839285714285714,Looper ,action,family,classic,children
+Léon ,6.642540620384048,Léon ,action,children,classic,family
+Magic Mike ,6.183760683760684,Magic Mike ,horror,children,family,classic
+Magnoli,6.608747044917258,Magnoli,action,family,classic,sci-fi
+Mama ,6.37,Mama ,action,family,thrillers,comedy
+Man of Stee,7.902941176470589,Man of Stee,comedy,classic,family,action
+Man on a Ledge ,8.331096196868009,Man on a Ledge ,action,classic,thrillers,comedy
+Mean Girl,6.776744186046511,Mean Girl,action,comedy,sci-fi,classic
+Memento ,7.626262626262626,Memento ,comedy,action,sci-fi,classic
+Men in Black ,8.652849740932643,Men in Black ,children,family,comedy,classic
+Men in Black 3 ,5.288819875776397,Men in Black 3 ,action,comedy,sci-fi,adventure
+Men in Black II ,7.529411764705882,Men in Black II ,children,family,comedy,action
+Monsters University ,5.117021276595745,Monsters University ,comedy,action,family,classic
+"Monsters, Inc",7.539893617021277,"Monsters, Inc",sci-fi,action,classic,family
+Moon ,8.8,Moon ,adventure,classic,horror,action
+Movie 43 ,6.644849785407725,Movie 43 ,comedy,family,classic,action
+Mud ,3.8210526315789473,Mud ,family,action,children,sci-fi
+Napoleon Dynamite ,5.6,Napoleon Dynamite ,family,biography,musical,action
+No Country for Old Men ,9.0,No Country for Old Men ,comedy,classic,action,adventure
+Noah ,6.51004016064257,Noah ,action,family,comedy,romantic
+Not Fade Awa,6.334462320067739,Not Fade Awa,action,classic,horror,family
+Now You See Me ,6.659609120521172,Now You See Me ,sci-fi,action,classic,adventure
+Oblivio,5.5,Oblivio,action,classic,family,comedy
+Office Space ,4.963740458015267,Office Space ,action,comedy,classic,family
+Oldboy ,8.745901639344263,Oldboy ,classic,action,comedy,horror
+Olympus Has Fallen ,4.759450171821306,Olympus Has Fallen ,action,family,classic,horror
+On the Road ,6.031811894882434,On the Road ,action,anime,sci-fi,classic
+One Flew Over the Cuckoo s Nest ,5.455882352941177,One Flew Over the Cuckoo s Nest ,adventure,classic,family,action
+Only God Forgives ,6.133540372670807,Only God Forgives ,classic,family,children,action
+Oz the Great and Powerful ,5.617021276595745,Oz the Great and Powerful ,comedy,action,classic,horror
+Pacific Rim ,7.538565629228687,Pacific Rim ,children,horror,action,classic
+Pain   Gain ,6.722222222222222,Pain   Gain ,children,family,horror,comedy
+Pan s Labyrinth ,6.144578313253012,Pan s Labyrinth ,family,children,comedy,action
+ParaNorma,5.591397849462366,ParaNorma,action,comedy,romantic,family
+Parental Guidanc,6.295566502463054,Parental Guidanc,comedy,sci-fi,action,classic
+Parker ,6.0,Parker ,action,horror,adventure,anime
+Pau,6.251968503937008,Pau,comedy,action,classic,adventure
+Pawn ,8.370860927152318,Pawn ,horror,action,classic,romantic
+Pineapple Express ,8.77292576419214,Pineapple Express ,action,classic,sci-fi,horror
+Platoon ,6.066037735849057,Platoon ,action,classic,comedy,romantic
+Predator ,6.189944134078212,Predator ,comedy,action,children,family
+Premium Rush ,5.249544626593807,Premium Rush ,action,sci-fi,horror,classic
+Project X ,6.526315789473684,Project X ,action,family,anime,children
+Prometheu,8.636497064579256,Prometheu,action,classic,comedy,children
+Promised Land ,5.335276967930029,Promised Land ,action,classic,adventure,family
+Pulp Fiction ,5.771812080536913,Pulp Fiction ,action,comedy,sci-fi,adventure
+Quantum of Solace ,8.923518164435947,Quantum of Solace ,action,adventure,classic,comedy
+R.I.P.D. ,8.329411764705883,R.I.P.D. ,family,classic,action,comedy
+RE,6.606965174129353,RE,action,classic,children,family
+Raiders of the Lost Ark ,8.336384439359268,Raiders of the Lost Ark ,family,children,action,comedy
+Rain Ma,7.0754716981132075,Rain Ma,action,family,sci-fi,classic
+Ratatouill,7.051546391752577,Ratatouill,action,comedy,adventure,romantic
+Real Steel ,4.331950207468879,Real Steel ,action,classic,family,children
+Red Dawn ,7.737973387922211,Red Dawn ,action,classic,horror,family
+Red Dragon ,5.816964285714286,Red Dragon ,action,sci-fi,classic,horror
+Reservoir Dogs ,7.563025210084033,Reservoir Dogs ,family,children,adventure,musical
+Riddick ,8.220588235294118,Riddick ,children,action,family,classic
+Rio ,7.437106918238993,Rio ,action,classic,sci-fi,family
+Rise of the Guardians ,5.314606741573034,Rise of the Guardians ,action,classic,romantic,adventure
+Rise of the Planet of the Apes ,6.755244755244755,Rise of the Planet of the Apes ,action,comedy,classic,family
+Robin Hood ,6.663636363636364,Robin Hood ,comedy,children,action,family
+RocknRolla ,6.337016574585635,RocknRolla ,action,thrillers,classic,comedy
+Role Models ,5.615803814713897,Role Models ,action,adventure,thrillers,children
+Safe House ,5.347305389221557,Safe House ,action,family,classic,romantic
+Salt ,8.19208211143695,Salt ,action,horror,family,classic
+Savages ,8.426016260162601,Savages ,classic,action,family,children
+Saving Private Ryan ,3.5891472868217056,Saving Private Ryan ,comedy,horror,children,action
+Scarface ,5.553911205073995,Scarface ,horror,comedy,classic,family
+Scary Movie ,8.347962382445141,Scary Movie ,action,horror,classic,thrillers
+Scary Movie 5 ,6.543046357615894,Scary Movie 5 ,horror,classic,comedy,action
+Scream 4 ,8.76231527093596,Scream 4 ,anime,children,family,adventure
+Se7en ,6.244791666666667,Se7en ,comedy,action,classic,thrillers
+Sen to Chihiro no kamikakushi ,6.15625,Sen to Chihiro no kamikakushi ,action,family,children,classic
+Seven Psychopaths ,8.061068702290076,Seven Psychopaths ,comedy,horror,classic,action
+Shame ,6.661849710982659,Shame ,action,adventure,classic,comedy
+Shaun of the Dead ,7.383863080684597,Shaun of the Dead ,horror,children,thrillers,action
+Sherlock Holmes ,6.779411764705882,Sherlock Holmes ,action,thrillers,horror,family
+Shutter Island ,6.342281879194631,Shutter Island ,horror,family,children,action
+Side Effects ,7.50563063063063,Side Effects ,action,classic,children,family
+Sin Cit,8.315261044176706,Sin Cit,comedy,action,classic,romantic
+Sinister ,6.058704453441296,Sinister ,action,classic,adventure,family
+Skyfall ,7.011627906976744,Skyfall ,action,family,children,comedy
+Snatch ,5.537337662337662,Snatch ,action,sci-fi,children,horror
+Snitch ,5.431034482758621,Snitch ,action,classic,romantic,adventure
+Snow White and the Huntsman ,7.766269477543538,Snow White and the Huntsman ,action,classic,family,adventure
+Snowpiercer ,7.123287671232877,Snowpiercer ,sci-fi,action,classic,thrillers
+Source Code ,3.936430317848411,Source Code ,action,comedy,children,classic
+Spider-Man ,9.077306733167083,Spider-Man ,adventure,classic,family,children
+Spring Breakers ,6.376470588235295,Spring Breakers ,comedy,action,classic,adventure
+Stand Up Guys ,6.451742627345845,Stand Up Guys ,action,sci-fi,adventure,classic
+Stand by Me ,6.636270491803279,Stand by Me ,action,sci-fi,classic,adventure
+Star Trek ,8.686609686609687,Star Trek ,classic,action,sci-fi,adventure
+Star Trek Into Darkness ,6.886524822695035,Star Trek Into Darkness ,children,family,comedy,action
+Star Wars ,6.345291479820628,Star Wars ,comedy,children,family,classic
+Step Brothers ,4.741379310344827,Step Brothers ,action,comedy,family,classic
+Stepmom ,6.020833333333333,Stepmom ,family,horror,action,classic
+Stoker ,5.984265734265734,Stoker ,action,anime,classic,adventure
+Stolen ,8.565217391304348,Stolen ,comedy,classic,adventure,action
+Sucker Punc,6.39288206559665,Sucker Punc,action,classic,family,adventure
+Superbad ,3.5,Superbad ,action,family,adventure,anime
+Superman Return,7.230434782608696,Superman Return,action,family,thrillers,children
+Taken ,5.781094527363184,Taken ,comedy,family,action,children
+Taken 2 ,8.221556886227544,Taken 2 ,classic,action,romantic,family
+Taxi Driver ,5.508250825082508,Taxi Driver ,action,children,comedy,family
+Ted ,5.638036809815951,Ted ,action,sci-fi,classic,horror
+Teenage Mutant Ninja Turtles ,5.584795321637427,Teenage Mutant Ninja Turtles ,comedy,family,classic,action
+Terminator Salvation ,6.642949547218628,Terminator Salvation ,action,family,classic,horror
+That s My Boy ,7.214285714285714,That s My Boy ,action,comedy,adventure,classic
+The A-Team ,6.313358302122347,The A-Team ,action,family,romantic,classic
+The Amazing Spider-Man ,6.63855421686747,The Amazing Spider-Man ,horror,action,classic,children
+The Amazing Spider-Man 2 ,7.707779886148008,The Amazing Spider-Man 2 ,action,comedy,adventure,classic
+The Avenger,7.409356725146199,The Avenger,comedy,adventure,action,family
+The Awakening ,8.125714285714286,The Awakening ,comedy,classic,action,adventure
+The Best Exotic Marigold Hotel ,4.063291139240507,The Best Exotic Marigold Hotel ,comedy,family,romantic,action
+The Big Lebowski ,4.807339449541284,The Big Lebowski ,action,family,comedy,adventure
+The Big Wedding ,6.15268817204301,The Big Wedding ,action,sci-fi,classic,horror
+The Bling Ring ,7.590822179732314,The Bling Ring ,action,comedy,classic,family
+The Book of Eli ,5.93312101910828,The Book of Eli ,action,adventure,thrillers,sci-fi
+The Boondock Saints ,7.213552361396304,The Boondock Saints ,action,adventure,thrillers,classic
+The Bourne Legacy ,8.163090128755364,The Bourne Legacy ,classic,comedy,action,family
+The Bourne Ultimatu,5.229268292682927,The Bourne Ultimatu,horror,comedy,classic,action
+The Breakfast Club ,6.376106194690266,The Breakfast Club ,action,horror,thrillers,family
+The Cabin in the Wood,5.65,The Cabin in the Wood,comedy,family,children,action
+The Call ,5.98876404494382,The Call ,comedy,children,family,romantic
+The Campaign ,3.9473684210526314,The Campaign ,action,horror,children,sci-fi
+The Change-Up ,6.375,The Change-Up ,horror,action,thrillers,adventure
+The Cloth ,5.906666666666666,The Cloth ,action,children,family,thrillers
+The Collection ,7.6050955414012735,The Collection ,family,adventure,action,children
+The Company You Keep ,8.875757575757575,The Company You Keep ,action,classic,horror,romantic
+The Croods ,8.743573401317187,The Croods ,action,classic,family,children
+The Crow ,5.597014925373134,The Crow ,action,classic,adventure,children
+The Dark Knigh,7.26962457337884,The Dark Knigh,action,classic,family,comedy
+The Dark Knight Rises ,6.86328125,The Dark Knight Rises ,family,comedy,action,children
+The Departed ,5.787330316742081,The Departed ,comedy,action,family,romantic
+The Descendants ,6.630434782608695,The Descendants ,horror,classic,comedy,action
+The Dictator ,6.430555555555555,The Dictator ,action,classic,comedy,adventure
+The Evil Dead ,5.9336492890995265,The Evil Dead ,action,classic,family,comedy
+The Expendables ,6.93734335839599,The Expendables ,family,action,classic,thrillers
+The Expendables 2 ,5.969072164948454,The Expendables 2 ,action,classic,comedy,adventure
+The Expendables 3 ,7.9447852760736195,The Expendables 3 ,action,sci-fi,comedy,adventure
+The Fifth Element ,8.357142857142858,The Fifth Element ,adventure,classic,family,children
+The Girl with the Dragon Tattoo ,8.660550458715596,The Girl with the Dragon Tattoo ,classic,horror,action,children
+The Goonies ,5.475177304964539,The Goonies ,action,horror,adventure,family
+The Green Mile ,6.3559322033898304,The Green Mile ,comedy,action,family,adventure
+The Grey ,6.760089686098655,The Grey ,comedy,action,adventure,classic
+The Guilt Trip ,5.518134715025907,The Guilt Trip ,comedy,action,adventure,family
+The Hangover ,5.647773279352227,The Hangover ,comedy,action,family,classic
+The Hangover Part II ,5.77737881508079,The Hangover Part II ,action,family,classic,horror
+The Hangover Part III ,8.131868131868131,The Hangover Part III ,children,family,action,comedy
+The Hel,6.416666666666667,The Hel,action,classic,family,adventure
+The Hurt Locker ,8.405797101449275,The Hurt Locker ,family,action,children,classic
+The Ides of March ,5.25531914893617,The Ides of March ,comedy,family,children,action
+The Incredible,6.921985815602837,The Incredible,action,romantic,classic,adventure
+The Incredible Burt Wonderstone ,5.9950495049504955,The Incredible Burt Wonderstone ,comedy,action,classic,family
+The Incredible Hulk ,6.802816901408451,The Incredible Hulk ,action,classic,comedy,family
+The Internship ,6.3076923076923075,The Internship ,action,comedy,classic,horror
+The Italian Jo,9.051912568306012,The Italian Jo,classic,children,family,musical
+The Last Stand ,6.642553191489362,The Last Stand ,action,comedy,classic,family
+The Lion King ,6.124183006535947,The Lion King ,children,family,musical,action
+The Lone Ranger ,4.733333333333333,The Lone Ranger ,horror,classic,action,musical
+The Lorax ,6.451127819548872,The Lorax ,action,classic,comedy,adventure
+The Lords of Salem ,4.2827586206896555,The Lords of Salem ,action,classic,anime,comedy
+The Man with the Golden Gun ,5.421052631578948,The Man with the Golden Gun ,action,family,classic,children
+The Man with the Iron Fists ,8.579374275782156,The Man with the Iron Fists ,action,sci-fi,classic,adventure
+The Master ,6.481675392670157,The Master ,action,sci-fi,classic,adventure
+The Matrix ,7.215017064846417,The Matrix ,action,adventure,horror,comedy
+The Matrix Reloaded ,5.972222222222222,The Matrix Reloaded ,action,comedy,thrillers,adventure
+The Mumm,6.049382716049383,The Mumm,family,children,action,comedy
+The Numbers Station ,5.6798245614035086,The Numbers Station ,comedy,action,classic,adventure
+The Odd Life of Timothy Green ,3.25,The Odd Life of Timothy Green ,children,family,action,adventure
+The Other Guys ,7.876777251184834,The Other Guys ,classic,family,action,children
+The Outback ,5.247058823529412,The Outback ,family,comedy,thrillers,action
+The Outsiders ,6.874538745387454,The Outsiders ,action,family,classic,children
+The Paperboy ,8.136413641364136,The Paperboy ,action,sci-fi,family,classic
+The Place Beyond the Pines ,4.352030947775629,The Place Beyond the Pines ,family,horror,action,children
+The Prestige ,6.459677419354839,The Prestige ,horror,action,romantic,classic
+The Purge ,8.072243346007605,The Purge ,action,classic,adventure,comedy
+The Raven ,8.732758620689655,The Raven ,family,classic,adventure,children
+The Rock ,9.317385866166354,The Rock ,classic,action,family,horror
+The Sandlot ,7.8919694072657744,The Sandlot ,horror,family,classic,action
+The Shawshank Redemption ,8.784172661870503,The Shawshank Redemption ,horror,classic,thrillers,action
+The Shining ,8.140449438202246,The Shining ,horror,action,classic,children
+The Silence of the Lambs ,8.0,The Silence of the Lambs ,family,action,adventure,anime
+The Sixth Sense ,5.822695035460993,The Sixth Sense ,horror,children,action,family
+The Story of Luke ,8.810309278350516,The Story of Luke ,action,sci-fi,classic,horror
+The Tall Man ,7.347517730496454,The Tall Man ,action,romantic,family,classic
+The Terminato,8.465149359886203,The Terminato,comedy,action,classic,family
+The Town ,8.450057405281285,The Town ,action,classic,thrillers,family
+The Truman Show ,5.25,The Truman Show ,comedy,sci-fi,action,family
+The Usual Suspects ,7.208860759493671,The Usual Suspects ,comedy,family,action,classic
+The Watch ,5.957104557640751,The Watch ,action,family,adventure,romantic
+The Way Way Back ,5.777777777777778,The Way Way Back ,comedy,family,children,action
+The Wolverine ,5.444656488549619,The Wolverine ,comedy,horror,action,classic
+There Will Be Blood ,6.989795918367347,There Will Be Blood ,action,comedy,family,adventure
+This Is 40 ,4.6,This Is 40 ,dramas,action,adventure,anime
+This Is the End ,5.434640522875817,This Is the End ,action,classic,thrillers,children
+Till We Meet Again ,4.625,Till We Meet Again ,action,adventure,anime,children
+Tinker Tailor Soldier Spy ,5.1310975609756095,Tinker Tailor Soldier Spy ,action,sci-fi,classic,adventure
+Tomorrow You re Gone ,7.67906976744186,Tomorrow You re Gone ,action,sci-fi,classic,adventure
+Total Recall ,8.880597014925373,Total Recall ,children,action,adventure,family
+Toy Story ,5.7727272727272725,Toy Story ,action,classic,thrillers,horror
+Toy Story 2 ,9.75,Toy Story 2 ,action,adventure,anime,children
+Toy Story 3 ,8.393188854489164,Toy Story 3 ,classic,action,comedy,horror
+Trainspotting ,6.753694581280788,Trainspotting ,action,comedy,children,classic
+Trance ,6.69949494949495,Trance ,action,sci-fi,classic,adventure
+Transformer,8.923076923076923,Transformer,comedy,action,adventure,horror
+Tron ,7.978260869565218,Tron ,sci-fi,action,classic,adventure
+Tropic Thunde,5.0,Tropic Thunde,horror,children,family,classic
+Twelve Monkey,8.277258566978194,Twelve Monkey,classic,children,action,family
+Under the Bed ,8.199288256227758,Under the Bed ,adventure,children,action,family
+Unforgiven ,7.807662835249042,Unforgiven ,action,classic,comedy,adventure
+Up ,5.350515463917525,Up ,comedy,family,action,romantic
+V for Vendetta ,5.475103734439834,V for Vendetta ,action,comedy,classic,family
+Wanderlust ,6.226912928759894,Wanderlust ,action,classic,children,sci-fi
+Wanted ,6.288888888888889,Wanted ,action,classic,dramas,thrillers
+Watchmen ,7.25,Watchmen ,family,children,adventure,comedy
+We Bought a Zoo ,5.325301204819277,We Bought a Zoo ,action,comedy,family,classic
+Welcome to the Punch ,5.476190476190476,Welcome to the Punch ,family,action,musical,adventure
+What Richard Did ,8.401515151515152,What Richard Did ,action,classic,children,family
+White House Down ,6.048951048951049,White House Down ,action,family,horror,children
+Who Framed Roger Rabbit ,5.26056338028169,Who Framed Roger Rabbit ,action,adventure,family,classic
+World War ,8.191836734693878,World War ,children,family,action,classic
+Wrath of the Titans ,8.08320726172466,Wrath of the Titans ,action,sci-fi,adventure,children
+Wreck-It Ralph ,5.747282608695652,Wreck-It Ralph ,action,adventure,horror,classic
+X-Men ,7.15625,X-Men ,comedy,horror,action,classic
+combined ,6.756701030927835,combined ,action,horror,family,children
+imdb scr,8.053763440860216,imdb scr,action,children,sci-fi,classic
